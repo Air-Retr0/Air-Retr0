@@ -1,16 +1,30 @@
-## Hi there 👋
+# Jahiem Sharma-Manley Allen
 
-<!--
-**Air-Retr0/Air-Retr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at York University focused on backend engineering, cloud infrastructure, and systems.
 
-Here are some ideas to get you started:
+I like building things that are fast, reliable, and useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+
+**Hatchloom** — Software Engineering
+**York University Markham Student Council** — Technical Director
+
+### Projects
+
+**YU Sync**
+Full-stack platform for York University students.
+
+**AnonAlyze**
+AI-powered security analysis tool.
+🏆 1Password Best Security Hack
+
+**York University API**
+Open-source API providing structured York University course, professor, and program data.
+
+### Technologies
+
+Java · Python · TypeScript · JavaScript · C/C++ · SQL
+Node.js · Express · FastAPI · React · Next.js
+PostgreSQL · Supabase · Docker · Cloudflare · Linux
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [jahiem.sm.allen@gmail.com](mailto:jahiem.sm.allen@gmail.com)
