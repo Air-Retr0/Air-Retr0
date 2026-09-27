@@ -34,6 +34,6 @@ Full-stack platform for York University students, built with React, TypeScript, 
 
 ### Outside of class
 
-Most of my time goes into building projects, working on York's Markham campus, and learning more about backend systems and infrastructure.
+Most of my time goes into building projects, working in York's Markham Campus, and learning more about backend systems and infrastructure.
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [jahiem.sm.allen@gmail.com](mailto:jahiem.sm.allen@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jahiem-allen/) · [jahiem.sm.allen@gmail.com](mailto:jahiem.sm.allen@gmail.com)
